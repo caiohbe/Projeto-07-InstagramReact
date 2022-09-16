@@ -1,3 +1,7 @@
 export default function Usuario() {
-    return
+    return (
+        <div>
+            
+        </div>
+    )
 }

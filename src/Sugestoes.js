@@ -1,3 +1,5 @@
 export default function Sugestoes() {
-    return
+    return (
+        <div></div>
+    )
 }
